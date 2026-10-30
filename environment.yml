@@ -1,0 +1,11 @@
+name: music-genre-classification
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - matplotlib
+  - librosa
+  - scikit-learn
+  - joblib
+  - jupyter
